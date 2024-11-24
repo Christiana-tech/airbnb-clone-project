@@ -47,3 +47,25 @@ A user-friendly design is critical in a booking system because:
 - It supports **accessibility**, ensuring inclusivity for all users, including those with disabilities.
 - It increases **engagement and retention**, encouraging users to return for future bookings.
 
+### Figma Design Properties
+
+#### Color Styles
+- **Primary Color**: #FF5A5F (AirBnB Red)
+- **Secondary Color**: #00A699 (AirBnB Green)
+- **Background Color**: #FFFFFF (White)
+- **Text Color**: #484848 (Dark Gray)
+
+#### Typography
+| Font Family       | Font Weight | Font Size       |
+|-------------------|-------------|-----------------|
+| **Roboto**        | 400         | 14px (Body)     |
+| **Roboto**        | 500         | 16px (Subhead)  |
+| **Roboto**        | 700         | 24px (Headings) |
+
+### Importance of Identifying Design Properties
+Understanding and documenting the design properties of a mockup is crucial because:
+- **Consistency**: It ensures uniformity across the application, creating a cohesive user experience.
+- **Efficiency**: Developers and designers can quickly reference the design system without frequent consultations.
+- **Scalability**: Standardized design properties allow for seamless scaling of the application by maintaining a common style guide.
+- **Accessibility**: Properly selected colors and fonts ensure that the application is accessible to a diverse range of users, including those with visual impairments.
+
