@@ -69,3 +69,52 @@ Understanding and documenting the design properties of a mockup is crucial becau
 - **Scalability**: Standardized design properties allow for seamless scaling of the application by maintaining a common style guide.
 - **Accessibility**: Properly selected colors and fonts ensure that the application is accessible to a diverse range of users, including those with visual impairments.
 
+## UI Component Patterns
+
+The AirBnB Clone project leverages reusable UI components to ensure consistency, modularity, and efficient development. Below are the components planned for the project:
+
+### 1. Navbar
+- **Description**: A responsive navigation bar that allows users to access key sections of the application, such as Home, Listings, and Profile.
+- **Features**:
+  - Includes logo and site branding.
+  - Responsive menu options (hamburger menu for smaller screens).
+  - User account menu with login/logout options.
+
+### 2. Property Card
+- **Description**: A compact, clickable card displaying summarized details of a property.
+- **Features**:
+  - Thumbnail image of the property.
+  - Property title and short description.
+  - Key details like price, location, and ratings.
+  - Button to view more details or book.
+
+### 3. Footer
+- **Description**: A static footer displayed at the bottom of all pages, providing additional information and links.
+- **Features**:
+  - Social media icons.
+  - Links to About, Help Center, and Terms of Service pages.
+  - Copyright information.
+
+### 4. Search Bar
+- **Description**: A prominent search bar allowing users to find properties based on location, check-in/out dates, and guest count.
+- **Features**:
+  - Dropdowns for guest count selection.
+  - Calendar picker for dates.
+  - Suggestions for locations.
+
+### 5. Booking Summary Modal
+- **Description**: A popup modal summarizing the user's booking details before confirmation.
+- **Features**:
+  - Selected property details (image, title, price).
+  - Booking dates and total cost breakdown.
+  - Confirm/Cancel buttons.
+
+### 6. Review Component
+- **Description**: A section to display user reviews for a property.
+- **Features**:
+  - User name and profile picture.
+  - Star ratings and comments.
+  - Pagination for multiple reviews.
+
+
+
